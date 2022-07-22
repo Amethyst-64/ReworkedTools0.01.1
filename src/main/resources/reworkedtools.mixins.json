@@ -1,0 +1,14 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "net.amethyst.reworkedtools.mixin",
+  "compatibilityLevel": "JAVA_17",
+  "mixins": [
+  ],
+  "client": [
+    "ReworkedToolsMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}

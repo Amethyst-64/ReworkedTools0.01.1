@@ -1,0 +1,11 @@
+{
+  "item.reworkedtools.hammer": "Hammer",
+  "item.reworkedtools.iron_hammer": "Iron Hammmer",
+  "item.reworkedtools.diamond_hammer": "Diamond Hammmer",
+  "item.reworkedtools.netherite_hammer": "Netherite Hammmer",
+  "item.reworkedtools.excavator": "Excavator",
+  "item.reworkedtools.iron_excavator": "Iron Excavator",
+  "item.reworkedtools.diamond_excavator": "Diamond Excavator",
+  "item.reworkedtools.netherite_excavator": "Netherite Excavator",
+  "itemGroup.reworkedtools.hammer": "Reworked Tools Tutorial Tab"
+}
