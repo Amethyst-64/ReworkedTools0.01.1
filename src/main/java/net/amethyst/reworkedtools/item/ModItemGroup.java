@@ -8,8 +8,8 @@ import net.minecraft.item.PickaxeItem;
 import net.minecraft.util.Identifier;
 
 public class ModItemGroup {
-        public static final ItemGroup MODHAMMER = FabricItemGroupBuilder.build(
-                new Identifier(ReworkedTools.MOD_ID, "hammer"), () -> new ItemStack(ModItems.MODHAMMER));
-    public static final ItemGroup MODEXCAVATOR = FabricItemGroupBuilder.build(
-            new Identifier(ReworkedTools.MOD_ID, "excavator"), () -> new ItemStack(ModItems.MODEXCAVATOR));
+        public static final ItemGroup HAMMERITEM = FabricItemGroupBuilder.build(
+                new Identifier(ReworkedTools.MOD_ID, "hammer"), () -> new ItemStack(ModItems.HAMMERITEM));
+    public static final ItemGroup EXCAVATORITEM = FabricItemGroupBuilder.build(
+            new Identifier(ReworkedTools.MOD_ID, "excavator"), () -> new ItemStack(ModItems.EXCAVATORITEM));
 }
